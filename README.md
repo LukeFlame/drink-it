@@ -1,5 +1,5 @@
-🇺🇲 README in english<br>
-🇧🇷 <a href="https://github.com/LukeFlame/drink-it/blob/main/README-pt.md">README em português</a>
+README in english<br>
+<a href="https://github.com/LukeFlame/drink-it/blob/main/README-pt.md">README em português</a>
 
 <p align="center">
       <img src="https://cdn.discordapp.com/attachments/787821695486263399/815346153633611776/drop_1.png" width="25%" alt="Happy Logo"/>
