@@ -1,5 +1,5 @@
 .container {
-    height: 99.6vh;
+    height: auto;
     max-width: 992px;
     margin: 0 auto;
     padding: 2.5rem 2rem;
@@ -13,4 +13,12 @@
     grid-template-columns: 1fr 1fr;
     gap: 6.25rem;
     align-content: center;
+    margin: 1.6rem 0;
+}
+
+@media(max-width: 920px) {
+    .container section {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
 }

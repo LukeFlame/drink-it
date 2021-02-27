@@ -1,5 +1,6 @@
 .overlay {
-    background: rgba(242, 243, 245, 0.8);
+    --background-overlay: rgba(242, 243, 245, 0.8);
+    background: var(--background-overlay);
     position: fixed;
     top: 0;
     bottom: 0;

@@ -6,6 +6,9 @@ function ThemeButton({ theme }) {
     const [actualTheme, setActualTheme] = useState(theme)
 
     function changeTheme() {
+
+        new Audio('/switchtheme.mp3').play();
+
         if (actualTheme === 'dark') {
             Cookies.set('theme', 'light');
             setActualTheme('light');
@@ -28,7 +31,8 @@ function ThemeButton({ theme }) {
                     --blue: ${actualTheme === 'dark' ? '#4b78d1' : '#6699ff'};
                     --red: ${actualTheme === 'dark' ? '#b1223a' : '#E83F5B'};
                     --blue-dark: ${actualTheme === 'dark' ? '#2356bd' : '#3377ff'};
-                    
+                    --gray-line: ${actualTheme === 'dark' ? '#797979' : '#DCDDE0'};
+                    --background-overlay: ${actualTheme === 'dark' ? 'rgba(104, 104, 104, 0.8);' : 'rgba(242, 243, 245, 0.8);'};
                     transition: .4s;
                 }
             `}

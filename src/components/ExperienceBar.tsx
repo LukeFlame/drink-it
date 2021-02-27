@@ -9,17 +9,17 @@ function ExperienceBar() {
 
     return (
         <header className={styles.experienceBar}>
-            <span>0 xp</span>
+            <span>{Number(percentToNextLevel / 100).toLocaleString(undefined, { style: 'percent', minimumFractionDigits: 0 })}</span>
             <div>
                 <div style={{ width: `${percentToNextLevel}%`, transition: "2s" }} />
                 <span
-                    className={styles.currentExperience}
+                    className={`${styles.currentExperience}`}
                     style={{ left: `${percentToNextLevel}%` }}
                 >
-                    {currentExperience} xp
+                    {currentExperience}/{experienceToNextLevel} xp
                 </span>
             </div>
-            <span>{experienceToNextLevel} xp</span>
+            <span>100%</span>
         </header>
     )
 }

@@ -1,9 +1,7 @@
 .themebutton {
     height: 3rem;
     width: 3rem;
-    position: fixed;
-    top: 2rem;
-    right: 3rem;
+    position: absolute;
 
     background: none;
     border: 0;
@@ -26,4 +24,27 @@
 .themebutton img {
     height: 80%;
     width: 80%;
+}
+
+@media(max-width: 1440px) {
+    .themebutton {
+        top: 2rem;
+        right: 3rem;
+        left: unset;
+    }
+}
+
+@media(max-width: 1124px) {
+    .themebutton {
+        top: 5.6rem;
+        left: 28.3rem;
+    }
+}
+
+@media(max-width: 720px) {
+    .themebutton {
+        top: 5.4rem;
+        right: 2rem;
+        left: unset;
+    }
 }

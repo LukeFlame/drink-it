@@ -71,6 +71,10 @@
     line-height: 1.5;
 }
 
+.challengeActive main img {
+    height: 7rem;
+}
+
 .challengeActive footer {
     display: grid;
     grid-template-columns: 1fr 1fr;

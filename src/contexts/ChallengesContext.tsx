@@ -72,8 +72,9 @@ export function ChallengesProvider({
         new Audio('/notification.mp3').play();
 
         if (Notification.permission === 'granted') {
-            new Notification('Novo desafio ✨', {
-                body: `Valendo ${challenge.amount}xp!`
+            new Notification('Hidrate-se! ✨', {
+                body: `Desafio valendo ${challenge.amount} xp!`,
+                icon: "/favicon.png",
             })
         }
     }
@@ -96,6 +97,7 @@ export function ChallengesProvider({
             levelUp();
         }
 
+        setCurrentExperience(experienceToNextLevel);
         setCurrentExperience(finalExperience);
         setActiveChallenge(null);
         setChallengesCompleted(challengesCompleted + 1);

@@ -24,7 +24,7 @@ function ChallengeBox() {
                     <header>Ganhe {activeChallenge.amount} xp</header>
 
                     <main>
-                        <img src={`icons/${activeChallenge.type}.svg`} alt="Challenge Icon" />
+                        <img src={`icons/waterbottle.svg`} alt="Challenge Icon" />
                         <strong>Novo desafio</strong>
                         <p>{activeChallenge.description}</p>
                     </main>
@@ -49,7 +49,7 @@ function ChallengeBox() {
                 </div>
             ) : (
                     <div className={styles.challengeNotActive}>
-                        <strong>Finalize um ciclo para receber um desafio</strong>
+                        <strong>Finalize um ciclo para receber um desafio de hidratação</strong>
                         <p><img src="icons/level-up.svg" alt="Level up" />
                         Avance de nível completando desafios.
                     </p>
