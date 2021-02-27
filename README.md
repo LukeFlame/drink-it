@@ -1,3 +1,6 @@
+🇺🇲 README in english<br>
+🇧🇷 <a href="https://github.com/LukeFlame/drink-it/blob/main/README-pt.md">README em português</a>
+
 <p align="center">
       <img src="https://cdn.discordapp.com/attachments/787821695486263399/815346153633611776/drop_1.png" width="25%" alt="Happy Logo"/>
 </p>
@@ -91,7 +94,7 @@ http://localhost:5500/
 <h2 align="center">License 📝</h2>
 
 <p align="center">
-   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE"> LICENSE </a> para mais detalhes. 😉
+   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/LukeFlame/drink-it/blob/main/LICENSE"> LICENSE </a> para mais detalhes. 😉
 </p>
 
 ---
