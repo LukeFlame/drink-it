@@ -19,9 +19,11 @@ export default class MyDocument extends Document {
                     <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
                     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
                     <link rel="manifest" href="/manifest.json" />
-                    <meta name="msapplication-TileColor" content="#ffffff" />
+                    <meta name="msapplication-TileColor" content="#3377ff" />
                     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
-                    <meta name="theme-color" content="#ffffff" />
+                    <meta name="theme-color" content="#3377ff" />
+                    <meta name="description" content="Vive se esquecendo de se hidratar? Seja lembrado a cada hora de beber a bendita aguinha. 💧" />
+                    <title>Drink.it | Aqui a sede não tem vez</title>
                     <link rel="preconnect" href="https://fonts.gstatic.com" />
                     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Rajdhani:wght@600&display=swap" rel="stylesheet" />
                 </Head>
