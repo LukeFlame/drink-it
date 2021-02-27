@@ -1,0 +1,29 @@
+.themebutton {
+    height: 3rem;
+    width: 3rem;
+    position: fixed;
+    top: 2rem;
+    right: 3rem;
+
+    background: none;
+    border: 0;
+    cursor: pointer;
+
+    font-size: 0px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    opacity: 40%;
+    transition: .2s;
+}
+
+.themebutton:hover {
+    opacity: 100%;
+}
+
+.themebutton img {
+    height: 80%;
+    width: 80%;
+}

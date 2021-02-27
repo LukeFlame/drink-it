@@ -1,62 +1,37 @@
 [
     {
         "type": "body",
-        "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 10 segundos por mão.",
+        "description": "Regue uma planta e lembre um amigo de beber água, principalmente aquele que vive de ressaca.",
         "amount": 80
     },
     {
         "type": "body",
-        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos por braço.",
+        "description": "Beba um copão de água com temperatura a seu gosto, pode ser aos poucos, o importante é beber!",
         "amount": 60
     },
     {
         "type": "body",
-        "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda, permanecendo na posição por alguns segundos.",
+        "description": "Faça um suquinho gelado para adocicar e hidratar, natural de preferência. Esqueça os sucos em pó.",
         "amount": 70
     },
     {
         "type": "body",
-        "description": "Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alongando a parte de trás da região.",
+        "description": "Recomende o Drink.it para um amigo e beba um copo d'água, salve o máximo de rins que puder!",
         "amount": 60
     },
     {
         "type": "body",
-        "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão. Repita o movimento com a outra perna na frente.",
+        "description": "Pegue uma garrafa do tamanho que preferir, encha com água e coloque ao seu alcance e visão, assim beberá sem nem perceber.",
         "amount": 100
     },
     {
         "type": "body",
-        "description": "Sentado, abra as pernas e tente encostar as palmas das mãos no chão, repita 3 vezes por 5 segundos.",
+        "description": "Não esqueça do seu pet! Dê água fresca para ele ou caso não tenha, beba você mesmo!",
         "amount": 80
     },
     {
         "type": "body",
-        "description": "Puxe o joelho de encontro ao peito e segure, troque de perna após 10 segundos.",
+        "description": "Arranje algumas garrafas, encha todas com água e coloque na geladeira. Sempre que fizer exercícios, pegue facilmente lá.",
         "amount": 50
-    },
-    {
-        "type": "body",
-        "description": "Sentado, cruze uma perna e incline seu tronco à frente, troque de perna após 10 segundos.",
-        "amount": 80
-    },
-    {
-        "type": "eye",
-        "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
-        "amount": 90
-    },
-    {
-        "type": "eye",
-        "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s, mexa apenas os olhos. Repita 3 vezes.",
-        "amount": 140
-    },
-    {
-        "type": "eye",
-        "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
-        "amount": 70
-    },
-    {
-        "type": "body",
-        "description": "Em pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita para a direita.",
-        "amount": 90
     }
 ]

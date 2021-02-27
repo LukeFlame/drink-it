@@ -31,3 +31,8 @@
     width: 0.95rem;
     margin-right: 0.5rem;
 }
+
+.themebutton {
+    position: absolute;
+    right: 0;
+}
