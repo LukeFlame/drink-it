@@ -94,7 +94,7 @@ http://localhost:5500/
 <h2 align="center">License 📝</h2>
 
 <p align="center">
-   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/LukeFlame/drink-it/blob/main/LICENSE"> LICENSE </a> para mais detalhes. 😉
+   This repository is under MIT license. You can see the <a href="https://github.com/LukeFlame/drink-it/blob/main/LICENSE"> LICENSE </a> file for more details. 😉
 </p>
 
 ---
